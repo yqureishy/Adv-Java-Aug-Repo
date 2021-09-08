@@ -1,4 +1,4 @@
-// console.log("Hello World")
+console.log("Hello World")
 
 // var i = 10;
 // var x = 12;
@@ -19,11 +19,3 @@
 // console.log(array)
 
 // console.log(5 === 5.000000);
-
-const fruits = ["Apple", "banana", "orange", "watermelon"]
-
-for (fruit of fruits) {
-    console.log(fruit);
-};
-
-fruits.forEach(fruit => console.log(fruit));
