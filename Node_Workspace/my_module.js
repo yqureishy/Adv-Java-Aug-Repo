@@ -1,0 +1,5 @@
+const greeting = (x) => {
+    console.log("Hello " + x)
+};
+
+module.exports = { greeting }
